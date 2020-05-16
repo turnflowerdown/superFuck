@@ -4,9 +4,8 @@
 <div><b>1.1版本更新(2020.2.10)</b></div>
 <ol>
    <li> 修复部分已知bug</li>
-   <li> 移除夸人选项，新增 彩虹屁、渣男语录、毒鸡汤</li>
+   <li> 移除夸人选项，新增 彩虹屁、渣男语录、毒鸡汤<br/><b>1.1版本exe格式（24.0M）：</b>链接：https://pan.baidu.com/s/1tzVD4GTtL-4q6301CT7BMg 提取码：ss1x </li>
 </ol>
-<b>1.1版本exe格式（24.0M）：</b>链接：https://pan.baidu.com/s/1tzVD4GTtL-4q6301CT7BMg 提取码：ss1x 
 <br/>
 <div><b>运行前请安装依赖库(pip install +库名)</b></div>
 <ul>
