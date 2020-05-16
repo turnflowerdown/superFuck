@@ -1,6 +1,8 @@
 # superFuck
 <div>自动骂人工具</div>
 <br/>
+<div>如果觉得有意思，请给我小星星</div>
+<br/>
 <div><b>1.1版本更新(2020.2.10)</b></div>
 <ol>
    <li> 修复部分已知bug</li>
