@@ -8,7 +8,7 @@
    <li>&nbsp;&nbsp;<b>1.1版本exe格式（24.1M）：</b>链接：https://pan.baidu.com/s/1tzVD4GTtL-4q6301CT7BMg 提取码：ss1x </li>
 </ol>
 <br/>
-<div><b>运行前请安装依赖库(pip install +库名 exe版本无需安装)</b></div>
+<div><b>运行前请安装依赖库(pip install +库名)[exe版本可直接运行 不需要安装]</b></div>
 <ul>
    <li> PyQt5</li>
    <li> requests</li>
